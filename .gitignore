@@ -1,4 +1,4 @@
 #no_push目錄下的push_ok.txt不被忽略
-!/no_push/push_ok.txt
+#!/no_push/push_ok.txt
 #忽略no_push目錄
-/no_push/
+#/no_push/
